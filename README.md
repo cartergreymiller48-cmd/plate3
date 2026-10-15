@@ -1,2 +1,2 @@
-# read below
-this file make sure ur on gaming laptop,pc,or somthing related that can open a exe file once u have click
+open this with python u can find on app store or i dont know if its on the pc
+
